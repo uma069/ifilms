@@ -25,5 +25,8 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)btButtonClick:(id)sender {
+    self.lbText.text = self.txText.text;
+}
 
 @end

@@ -12,7 +12,6 @@
 		EF2511C92056E30700D0DDBE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF2511C82056E30700D0DDBE /* ViewController.m */; };
 		EF2511CC2056E30700D0DDBE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF2511CA2056E30700D0DDBE /* Main.storyboard */; };
 		EF2511CE2056E30700D0DDBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF2511CD2056E30700D0DDBE /* Assets.xcassets */; };
-		EF2511D12056E30700D0DDBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF2511CF2056E30700D0DDBE /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,7 +23,6 @@
 		EF2511C82056E30700D0DDBE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		EF2511CB2056E30700D0DDBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EF2511CD2056E30700D0DDBE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EF2511D02056E30700D0DDBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF2511D22056E30700D0DDBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +62,6 @@
 				EF2511C82056E30700D0DDBE /* ViewController.m */,
 				EF2511CA2056E30700D0DDBE /* Main.storyboard */,
 				EF2511CD2056E30700D0DDBE /* Assets.xcassets */,
-				EF2511CF2056E30700D0DDBE /* LaunchScreen.storyboard */,
 				EF2511D22056E30700D0DDBE /* Info.plist */,
 				EF2511C12056E30700D0DDBE /* Supporting Files */,
 			);
@@ -137,7 +134,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF2511D12056E30700D0DDBE /* LaunchScreen.storyboard in Resources */,
 				EF2511CE2056E30700D0DDBE /* Assets.xcassets in Resources */,
 				EF2511CC2056E30700D0DDBE /* Main.storyboard in Resources */,
 			);
@@ -165,14 +161,6 @@
 				EF2511CB2056E30700D0DDBE /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		EF2511CF2056E30700D0DDBE /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				EF2511D02056E30700D0DDBE /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
