@@ -295,6 +295,7 @@
 				EF2511D72056E30700D0DDBE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
